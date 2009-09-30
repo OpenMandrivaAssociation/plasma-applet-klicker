@@ -9,7 +9,6 @@ Group:		Graphical desktop/KDE
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	99554-%{oname}%{version}.tar.gz
 BuildRequires:	plasma-devel
-Provides:	plasma-applet
 
 %description
 Klicker is an icon application launcher, with zoom
