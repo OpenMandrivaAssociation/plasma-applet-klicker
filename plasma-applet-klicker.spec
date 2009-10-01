@@ -15,7 +15,7 @@ Klicker is an icon application launcher, with zoom
 
 
 %prep
-%setup -q -n %{oname}%{version}
+%setup -c -n %{oname}%{version}
 
 
 %build
