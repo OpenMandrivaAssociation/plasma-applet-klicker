@@ -8,6 +8,7 @@ License:	GPLv2+
 Group:		Graphical desktop/KDE
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Source0:	99554-%{oname}%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	plasma-devel
 
 %description
