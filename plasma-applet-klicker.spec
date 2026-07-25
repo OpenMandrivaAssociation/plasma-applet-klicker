@@ -2,7 +2,7 @@
 Name:		plasma-applet-%{oname}
 Summary:	Klicker is an icon application launcher, with zoomK
 Version:	0.1.1
-Release:	%mkrel 1
+Release:	2
 Url:		https://kde-look.org/content/show.php/klicker?content=99554
 License:	GPLv2+
 Group:		Graphical desktop/KDE
